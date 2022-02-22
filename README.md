@@ -1,4 +1,4 @@
-"# NCalc-NetCore" 
+# "NCalc-NetCore" 
 Port of NCalc-Edge (https://github.com/pitermarx/NCalc-Edge) for .NetCore
 
 [![nuget](https://buildstats.info/nuget/RestSharp.Authenticators.Digest)](http://www.nuget.org/packages/RestSharp.Authenticators.Digest)
